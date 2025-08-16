@@ -1,0 +1,176 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px;
+}
+
+nav {
+    display: flex;
+    gap: 60px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(146, 142, 142);
+    font-size: 18px;
+    font-weight: 700;
+
+}
+
+a:hover {
+    color: black;
+}
+
+.box div {
+    width: 440px;
+}
+
+.box h1 {
+    font-weight: 700;
+    font-size: 45px;
+}
+
+section {
+    display: flex;
+    justify-content: space-around;
+}
+
+button {
+    width: 197px;
+    height: 49px;
+    background-color: #458FF6;
+    border-radius: 30px;
+    border: none;
+    color: white;
+}
+
+.box {
+    padding-top: 100px;
+}
+
+.but:active {
+    background-color: blue;
+}
+
+.our {
+    font-size: 35px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.p1 {
+    color: #7D7987;
+}
+
+.section2 {
+    width: 800px;
+    text-align: center;
+    margin: auto;
+}
+
+.divlar {
+    background-color: #E5E9F666;
+    width: 380px;
+    height: 380px;
+    border-radius: 20px;
+
+}
+
+.divlarniki {
+    width: 280px;
+    height: 88px;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.section3 {
+    display: flex;
+
+
+    flex-wrap: wrap;
+    margin: auto;
+    width: 1200px;
+    height: 900px;
+}
+
+.jok .section3 .divlar img,
+h3,
+p {
+    padding-left: 50px;
+    padding-top: 45px;
+} */
+
+
+
+
+.cardd img {
+    width: 628px;
+    height: 464px;
+}
+
+
+.d-flex {
+    display: flex;
+    text-align: center;
+}
+.brd{
+    padding-top: 35px;
+    padding-left: 36px;
+}
+
+.col {
+    flex-direction: column;
+  
+}
+.bular{
+    border: 1px solid;
+    border-radius: 16px;
+    width: 380px;
+    height: 516px;
+}
+.va{
+
+}
+.bo3{
+    display: flex;
+    justify-content: space-around;
+}
+.redmi{
+    color: rgb(76, 153, 212);
+    padding-left: 47px;
+    font-size: 17px;
+}
+.button4{
+    margin-left: 700px;
+    margin-top: 100px;
+}
+footer{
+    background-color: #67C3F3;
+
+    height: 432px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 200px;
+    color: #fff;
+}
+.divlar:hover{
+    background-color: #5A98F2;
+}
+.carton:active{
+    background-color: blue;
+}
+.button4:active{
+    background-color: blue;
+}
+.bir{
+    width: 390px;
+
+}
+.tugatish{
+    padding-right: 90px;
+}
+.oxirida{
+    margin-left: 40px;
+}
